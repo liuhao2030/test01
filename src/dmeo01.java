@@ -5,5 +5,6 @@ public class dmeo01 {
 		System.out.println("hello word!!!");
 		System.out.println("sdfsdf");
 		System.out.println("sfsdf");
+		System.out.println("disici");
 	}
 }
